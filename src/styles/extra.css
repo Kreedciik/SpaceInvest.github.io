@@ -1,0 +1,11 @@
+.u-content{
+    padding: 44px 50px;
+}
+.u-container{
+    width: calc(100% - 80px);
+    background-color: #fff;
+    position: relative;
+    left: 80px;
+    border-top-left-radius: 42px;
+    border-bottom-left-radius: 42px;
+}
